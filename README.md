@@ -1,4 +1,4 @@
-## Hi there 👋# 💫 About Me:
+## Hey ADNANSAMI Here 👋# 
 I’m a passionate Full Stack Developer interested in building responsive, user-friendly, and scalable web applications. I work with Java, HTML, CSS, JavaScript, SQL, and backend technologies, and I’m continuously improving my development and problem-solving skills.<br> <br>
 🚀 Interested in Full Stack Development, Software Development & Backend Technologies<br>
 📚 Always learning and exploring new technologies<br>
